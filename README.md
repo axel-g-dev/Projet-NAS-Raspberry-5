@@ -143,7 +143,6 @@ The configured NAS is:
 
 ## 👨‍💻 Author
 
-**Name:** *Gantou Axel*
 **GitHub:** [@axel-g-dev](https://github.com/axel-g-dev)
 
 > 🧰 Educational project made with **Raspberry Pi 5**, focused on **Linux administration**, **networking**, and **automation**.
